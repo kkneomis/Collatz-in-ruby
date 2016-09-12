@@ -1,8 +1,5 @@
 # Collats in Ruby
 
-//This is Collatz in Java
-//This code in Collatz in Ruby
-
 public class Collatz{
 
   public static int collatz(int x){
@@ -17,4 +14,4 @@ public class Collatz{
 		
 	}//end collatz
 	
-}//end class
+ }//end class
